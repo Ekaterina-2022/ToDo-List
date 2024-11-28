@@ -1,6 +1,6 @@
 # ToDo List for your plans
 
-## [<span style="color:darkviolet">Try it](https://ekaterina-2022.github.io/ToDoList/ "Click me")</span>
+## [<span style="color:darkviolet">Try it](https://ekaterina-2022.github.io/ToDo-List/ "Click me")</span>
 
 ![ToDoList](./assets/ToDoList.png)
 
